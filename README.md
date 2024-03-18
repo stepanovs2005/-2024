@@ -7,7 +7,7 @@
 
 Время на выполнение модуля 5 часов.  
 Доступ к ISP вы не имеете!!  
-![Cхема сети2024](https://github.com/stepanovs2005/Professions-2024-/assets/163839573/b190775a-dff6-41f3-a8e5-66a40b1a1eba)
+![123](https://github.com/stepanovs2005/Professions-2024-/assets/163839573/2bc94c55-2f96-465c-9da7-9d733f83cc7f)
 
 | Название устройства | ОС |
 |:-|:-|
